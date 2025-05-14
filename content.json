@@ -1,0 +1,56 @@
+{
+    "animals": [
+        {
+            "id": "animalDog",
+            "name": "Dog",
+            "category": "animal"
+        },
+        {
+            "id": "animalCat",
+            "name": "Cat",
+            "category": "animal"
+        },
+        {
+            "id": "animalCow",
+            "name": "Cow",
+            "category": "animal"
+        },
+        {
+            "id": "animalSheep",
+            "name": "Sheep",
+            "category": "animal"
+        },
+        {
+            "id": "animalFox",
+            "name": "Fox",
+            "category": "animal"
+        }
+    ],
+    "pokemon": [
+        {
+            "id": "pokemonGrowlithe",
+            "name": "Growlithe",
+            "category": "pokemon"
+        },
+        {
+            "id": "pokemonLiepard",
+            "name": "Liepard",
+            "category": "pokemon"
+        },
+        {
+            "id": "pokemonMiltank",
+            "name": "Miltank",
+            "category": "pokemon"
+        },
+        {
+            "id": "pokemonMareep",
+            "name": "Mareep",
+            "category": "pokemon"
+        },
+        {
+            "id": "pokemonVulpix",
+            "name": "Vulpix",
+            "category": "pokemon"
+        }
+    ]
+}
